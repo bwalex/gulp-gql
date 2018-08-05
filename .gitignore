@@ -1,0 +1,7 @@
+node_modules
+yarn.lock
+package-lock.json
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-v][a-z]
+[._]sw[a-p]

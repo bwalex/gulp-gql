@@ -1,0 +1,30 @@
+{
+  "name": "gulp-gql",
+  "version": "0.1.2",
+  "description": "Pre-compile graphql documents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bwalex/gulp-gql.git"
+  },
+  "author": "Alex Hornung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bwalex/gulp-gql/issues"
+  },
+  "homepage": "https://github.com/bwalex/gulp-gql#readme",
+  "keywords": [
+    "graphql",
+    "gulp",
+    "gql"
+  ],
+  "dependencies": {
+    "graphql": "^0.13.2",
+    "plugin-error": "^1.0.1",
+    "ramda": "^0.25.0",
+    "through2": "^2.0.3"
+  }
+}
